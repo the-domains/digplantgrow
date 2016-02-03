@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.'
-datePublished: '2016-02-03T23:31:53.094Z'
-dateModified: '2016-02-03T23:31:45.294Z'
+datePublished: '2016-02-03T23:50:21.693Z'
+dateModified: '2016-02-03T23:50:14.084Z'
 title: Man.  Vegetable Plot.  Japanese Garden. Bonsai Collection.
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: man-vegetable-plot-japanese-garden-bonsai-collection/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Man.   
