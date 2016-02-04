@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T01:07:55.506Z'
-dateModified: '2016-02-04T01:07:52.855Z'
-title: Building the vegetable plots.
+datePublished: '2016-02-04T10:33:04.483Z'
+dateModified: '2016-02-04T10:32:55.494Z'
+title: Vegetable plots.
 author: []
 sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
 published: true
@@ -22,8 +22,10 @@ url: building-the-vegetable-plots/index.html
 _type: Article
 
 ---
-# Building the vegetable plots.
+# Vegetable plots.
 
-Not been a builder this was a first for me. Though didn't really look that difficult. The previous vegetable garden i built out of old railway sleepers i found buried thought out the "garden" and some bamboo stakes. It worked well and we got a lot of produce out of it. Just not at the volume i wanted. Old plot pictured below.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebcbed37-a909-4cc8-8e43-33e7a80323ae.JPG)
+Not been a builder by a long shot, perhaps the occasional large lego blocks builder, this was very much a first for me. The first vegetable garden i built was out of old railway sleepers i found buried thought out the "garden". I use the rabbit marks around the word garden simply because when we started renting this house, the gardens where all on their last legs and the grass had pretty much all but packed up and flown the coop. Well with a bit of help from the wind it had packed its bags and blown right outta here.  So it was a very cheap way of getting a vegetable plot up and growing without a lot of work or thought going into the idea. It worked well and we managed to get a lot of produce out of it. Just not at the volume i wanted. 
+
+_A couple of old photos of the first plot below._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce3a5c42-4026-4a51-a4b2-ef6e4d8a8b59.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebcbed37-a909-4cc8-8e43-33e7a80323ae.JPG)
