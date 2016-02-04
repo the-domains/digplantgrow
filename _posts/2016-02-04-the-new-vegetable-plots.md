@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Growing the square foot way
-datePublished: '2016-02-04T10:51:45.264Z'
-dateModified: '2016-02-04T10:51:42.742Z'
+datePublished: '2016-02-04T10:53:42.123Z'
+dateModified: '2016-02-04T10:53:36.673Z'
 title: The New Vegetable Plots
 author: []
 sourcePath: _posts/2016-02-04-the-new-vegetable-plots.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-new-vegetable-plots/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## The New Vegetable Plots
