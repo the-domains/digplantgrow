@@ -1,32 +1,32 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Growing the square foot way
-datePublished: '2016-02-04T10:49:51.770Z'
-dateModified: '2016-02-04T10:48:21.858Z'
+datePublished: '2016-02-04T10:51:45.264Z'
+dateModified: '2016-02-04T10:51:42.742Z'
 title: The New Vegetable Plots
 author: []
+sourcePath: _posts/2016-02-04-the-new-vegetable-plots.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-the-new-vegetable-plots.md
-published: true
 url: the-new-vegetable-plots/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## The New Vegetable Plots
 
 With the new year came the new idea! And that needed new vegetable plots. And so the building began.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38428e39-b095-4461-b35c-c49f642bf0fa.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcde8d2-61a9-4b25-a038-57aba66df754.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4264546f-98a9-428d-a2b3-f645257c596d.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7addaf31-39da-45dd-8a16-5b06d3fdbbed.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edacccd7-e82f-4cdc-a6b7-e44f2cd89f62.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d4518c12b51f331c8904bd9d82cb5e243ae7bd1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc0b665fd8c096c678ab01d6d65d890331c44a95.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56afd23cd8a05dba692bf9739be1863e66cc35d6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65a94cf6e55ca2a94d3f21bfc7f9243ab6dec845.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92bcc4d8b9ef3f4aa77872be4400320c379ecb96.jpg)
