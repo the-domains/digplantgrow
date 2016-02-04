@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.'
-datePublished: '2016-02-03T23:50:21.693Z'
-dateModified: '2016-02-03T23:50:14.084Z'
+datePublished: '2016-02-04T01:05:16.956Z'
+dateModified: '2016-02-04T01:05:15.863Z'
 title: Man.  Vegetable Plot.  Japanese Garden. Bonsai Collection.
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: man-vegetable-plot-japanese-garden-bonsai-collection/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Man.   
@@ -32,6 +32,6 @@ A man, his vegetable plots, Japanese garden, bonsai collection along with the tr
 So the question: Can i grow and feed my family all their vegetable needs out of my own Melbourne suburban back yard?
 
 Lets take the journey along with all failings and conquers and see what the outcome will be. Here is an article how i came to have my current "Japanese" garden and how i built/designed it: link [A DIY Japanese Garden][0]. A more recent moody photo is attached although this part of my backyard is forever changing and i hope to get some updated photos and a bit of an explanation about it.
-![The Backyard](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3ea22948537dfaf551624c1ac159e0bc91fc0e.jpg)
+![The Backyard](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf9f7fec03c27c139b454faf05daa14f09d27b9.jpg)
 
 [0]: http://thehome-journal.com/a-diy-japanese-garden/
