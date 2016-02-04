@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dig Plant Grow]]></title>
         <description><![CDATA[Dig Plant Grow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://digplantgrow.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 01:03:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 01:05:59 GMT</lastBuildDate>
+        <atom:link href="http://digplantgrow.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Man. Vegetable Plot. Japanese Garden.Bonsai Collection.]]></title>
+            <description><![CDATA[<article><h1>Man. Vegetable Plot. Japanese Garden.Bonsai Collection.</h1><p>A man, his vegetable plots, Japanese garden, bonsai collection along with the trials feeding a family from said vegetables plots.  The simple idea grew from the ever increases cost of "organic" vegetables and the struggle to feed my family quality produce at a cost that wasn't going to send me broke. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52362c0c9d3b73612ac0834851e8e18bd677408e.jpg"></article>]]></description>
+            <link>http://digplantgrow.com.au/man-vegetable-plot-japanese-garden-bonsai-collection/index.html</link>
+            <guid isPermaLink="false">9ecff962-6765-481f-967c-7a4a7f306de7</guid>
+            <pubDate>Thu, 04 Feb 2016 01:05:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building the vegetable plots.]]></title>
             <description><![CDATA[<article><h1>Building the vegetable plots.</h1><p>Not been a builder this was a first for me. Though didn't really look that difficult. The previous vegetable garden i built out of old railway sleepers i found buried thought out the "garden" and some bamboo stakes. It worked well and we got a lot of produce out of it. Just not at the volume i wanted. Old plot pictured below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/508caad69198b5e7ccbc7066c4220816b2b4c641.jpg"></article>]]></description>
-            <link>undefinedbuilding-the-vegetable-plots/index.html</link>
+            <link>http://digplantgrow.com.au/building-the-vegetable-plots/index.html</link>
             <guid isPermaLink="false">5f137fde-0f24-4b15-8ce3-c8fee9d02ebe</guid>
             <pubDate>Thu, 04 Feb 2016 01:03:10 GMT</pubDate>
         </item>
