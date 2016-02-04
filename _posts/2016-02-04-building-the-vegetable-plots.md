@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: The first vegetable plot made.
-datePublished: '2016-02-04T10:33:49.179Z'
-dateModified: '2016-02-04T10:33:45.343Z'
+datePublished: '2016-02-04T10:53:07.760Z'
+dateModified: '2016-02-04T10:53:04.540Z'
 title: Vegetable plots.
 author: []
 sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: building-the-vegetable-plots/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Vegetable plots.
