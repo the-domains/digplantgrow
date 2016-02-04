@@ -1,7 +1,7 @@
 name: digplantgrow
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.52683
+layout_spectrum: 0.24745
+typography_spectrum: 0.39015
 title: Dig Plant Grow
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#d9dad4'
     - '#467b2b'
     - '#83b453'
-  brandStrength: 0.625
-  lightness: 0.6590214290190488
-  saturation: 0.5
-  rhythmicContrast: 0.7907578370068222
+  brandStrength: 0.3125
+  lightness: 0.9375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
