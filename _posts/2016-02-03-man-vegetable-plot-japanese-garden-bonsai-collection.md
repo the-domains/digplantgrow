@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.'
-datePublished: '2016-02-04T10:17:51.344Z'
-dateModified: '2016-02-04T10:17:48.249Z'
+description: Feeding a family from your own vegetable plots
+datePublished: '2016-02-04T10:38:26.566Z'
+dateModified: '2016-02-04T10:38:20.520Z'
 title: The Question
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
