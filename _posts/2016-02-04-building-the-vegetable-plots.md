@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T01:03:10.786Z'
-dateModified: '2016-02-04T01:02:54.472Z'
+datePublished: '2016-02-04T01:07:55.506Z'
+dateModified: '2016-02-04T01:07:52.855Z'
 title: Building the vegetable plots.
 author: []
+sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
-published: true
 url: building-the-vegetable-plots/index.html
 _type: Article
 
