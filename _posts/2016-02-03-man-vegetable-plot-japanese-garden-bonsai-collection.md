@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.'
-datePublished: '2016-02-04T10:09:47.693Z'
-dateModified: '2016-02-04T10:09:41.378Z'
-title: Man.  Vegetable Plot.  Japanese Garden. Bonsai Collection.
+datePublished: '2016-02-04T10:17:51.344Z'
+dateModified: '2016-02-04T10:17:48.249Z'
+title: The Question
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
 published: true
@@ -22,16 +22,13 @@ url: man-vegetable-plot-japanese-garden-bonsai-collection/index.html
 _type: Article
 
 ---
-# Man.   
-Vegetable Plot.   
-Japanese Garden.  
-Bonsai Collection.
+## The Question!
 
-A man, his vegetable plots, Japanese garden, bonsai collection along with the trials feeding a family from said vegetables plots.  The simple idea grew from the ever increases cost of "organic" vegetables and the struggle to feed my family quality produce at a cost that wasn't going to send me broke. 
+A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.  The simple idea grew from the ever increases cost of "organic" vegetables and the struggle to feed my family quality produce at a cost that wasn't going to send me broke. 
 
-So the question: Can i grow and feed my family all their vegetable needs out of my own Melbourne suburban back yard?
+So the question: Can i grow and feed my family all their vegetable needs out of my own Melbourne suburban back yard? So join me for the journey with all its failings, conquests and lets see if this question can be answered "YES". 
 
-Lets take the journey along with all failings and conquers and see what the outcome will be. Here is an article how i came to have my current "Japanese" garden and how i built/designed it: link [A DIY Japanese Garden][0]. A more recent moody photo is attached although this part of my backyard is forever changing and i hope to get some updated photos and a bit of an explanation about it.
+Here is an article about how i came to have my current "Japanese" garden and how i built/designed it: link [A DIY Japanese Garden][0]. I'll get around to taking some more recent photos soon. Here is one from last year in which you can just see the old vegetable garden in the background on the right.
 ![The Backyard](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf9f7fec03c27c139b454faf05daa14f09d27b9.jpg)
 
 [0]: http://thehome-journal.com/a-diy-japanese-garden/
