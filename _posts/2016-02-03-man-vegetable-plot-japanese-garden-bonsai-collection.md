@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Feeding a family from your own vegetable plots
-datePublished: '2016-02-04T10:38:26.566Z'
-dateModified: '2016-02-04T10:38:20.520Z'
+datePublished: '2016-02-05T02:08:46.597Z'
+dateModified: '2016-02-05T02:08:43.756Z'
 title: The Question
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
@@ -22,9 +22,7 @@ url: man-vegetable-plot-japanese-garden-bonsai-collection/index.html
 _type: Article
 
 ---
-## The Question!
-
-A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.  The simple idea grew from the ever increases cost of "organic" vegetables and the struggle to feed my family quality produce at a cost that wasn't going to send me broke. 
+## A man, his vegetable plots, Japanese garden, bonsai collection and the trials feeding a family from said vegetables plots.  The simple idea grew from the ever increases cost of "organic" vegetables and the struggle to feed my family quality produce at a cost that wasn't going to send me broke. 
 
 So the question: Can i grow and feed my family all their vegetable needs out of my own Melbourne suburban back yard? So join me for the journey with all its failings, conquests and lets see if this question can be answered "YES". 
 
