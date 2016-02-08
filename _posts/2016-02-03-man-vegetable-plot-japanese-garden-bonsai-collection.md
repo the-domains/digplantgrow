@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Feeding a family from your own vegetable plots
-datePublished: '2016-02-05T02:41:33.569Z'
-dateModified: '2016-02-05T02:41:31.300Z'
+datePublished: '2016-02-08T22:22:54.922Z'
+dateModified: '2016-02-08T22:22:46.849Z'
 title: The Question.
 author: []
 sourcePath: _posts/2016-02-03-man-vegetable-plot-japanese-garden-bonsai-collection.md
