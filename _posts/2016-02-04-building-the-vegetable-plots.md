@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The first vegetable plot made.
-datePublished: '2016-02-08T22:35:00.344Z'
-dateModified: '2016-02-08T22:34:59.846Z'
-title: Vegetable plots.
+datePublished: '2016-02-08T22:35:53.257Z'
+dateModified: '2016-02-08T22:35:50.638Z'
+title: The First Plot
 author: []
 sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
 published: true
@@ -22,7 +22,7 @@ url: building-the-vegetable-plots/index.html
 _type: WebPage
 
 ---
-The First Plot
+# The First Plot
 
 Not been a builder by a long shot, perhaps the occasional large lego blocks builder, this was very much a first for me. The first vegetable garden i built was out of old railway sleepers i found buried thought out the "garden". I use the rabbit marks around the word garden simply because when we started renting this house, the gardens where all on their last legs and the grass had pretty much all but packed up and flown the coop. Well with a bit of help from the wind it had packed its bags and blown right outta here.  So it was a very cheap way of getting a vegetable plot up and growing without a lot of work or thought going into the idea. It worked well and we managed to get a lot of produce out of it. Just not at the volume i wanted. 
 
