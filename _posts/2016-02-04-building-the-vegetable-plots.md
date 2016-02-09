@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The first vegetable plot made.
-datePublished: '2016-02-08T22:35:53.257Z'
-dateModified: '2016-02-08T22:35:50.638Z'
+datePublished: '2016-02-09T05:14:41.477Z'
+dateModified: '2016-02-09T05:14:35.637Z'
 title: The First Plot
 author: []
 sourcePath: _posts/2016-02-04-building-the-vegetable-plots.md
